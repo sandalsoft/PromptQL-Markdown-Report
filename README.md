@@ -73,3 +73,6 @@ The following correlations were observed between network metrics and customer ou
 1. Conduct a deeper analysis of network performance metrics (latency, reliability) in relation to customer satisfaction.
 2. Develop a predictive model to forecast the ROI of planned network investments.
 3. Create a dashboard to monitor the ongoing relationship between network metrics and customer outcomes.
+
+---
+PromptQL Thread:  https://promptql.console.hasura.io/share/f0eb2ec1-873d-45af-ba5e-7fd50df76bfc
